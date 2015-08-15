@@ -19,7 +19,7 @@ See https://github.com/riccardobl/lombok/blob/master/README
 <dependency>
   <groupId>com</groupId>
   <artifactId>lombok</artifactId>
-  <version>1.16.5-FPATCH-0.1</version>
+  <version>1.16.5-FPATCH-0.2</version>
   <type>jar</type>
 </dependency>
 ```
